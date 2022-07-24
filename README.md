@@ -6,7 +6,7 @@ Palindrome Checker project for freeCodeCamp <a href="https://learn.freecodecamp.
 
 # 🔧 Technologies
 
-- <img align="center" alt="Yann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> (ES6 & RegEx)
+- <img align="center" alt="Yann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 # ⭕️ Rules & Tasks
 
